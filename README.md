@@ -155,4 +155,4 @@ flutter create my_3d_puzzle
 cd my_3d_puzzle
 flutter pub add flame flame_3d flame_audio shared_preferences games_services
 
-باقي الخطوات و الدروس مع الأكواد في الملفات المرفقة word
+باقي الخطوات و الدروس مع الأكواد في الملفات المرفقة
